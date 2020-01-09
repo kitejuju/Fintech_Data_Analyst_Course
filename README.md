@@ -4,10 +4,9 @@ __[ 아시아경제 청년취업아카데미 - 핀테크 금융데이터 분석�
 
 - 교육 일시 : 2019/12/23 - 2020/02/19
 - 언어 및 프로그램 : Python / Jupyter Notebook
-
-![img](https://wikibook.co.kr/images/cover/s/9791158391126.jpg)
-
 - 교재 1  : 데이터 분석을 위한 파이썬 철저 입문
+  - ![img](https://wikibook.co.kr/images/cover/s/9791158391126.jpg)
+
   - 1장 - 파이썬 프로그래밍 언어
   - 2장 - 파이썬 시작하기
   - 3장 - 파이썬을 계산기처럼 이용하기
@@ -21,15 +20,13 @@ __[ 아시아경제 청년취업아카데미 - 핀테크 금융데이터 분석�
   - 11장 - 데이터 분석을 위한 패키지
   - 12장 - 데이터 시각화
   - 코드 출처 : https://wikibook.co.kr/python-for-data-analysis/
-  
-  
 
 - 교재 2 : PPT 강의자료
 
   - 1장 - 빅데이터 금융 사이언티스트 개요
   - 2장 - 파이썬 라이브러리 활용 분석(Numpy, Matplotlib, Pandas)
   - 3장 - 파이썬 라이브러리 활용 분석(Seaborn)
-  - 4장 - 데이터 수집과 처리
+  - 4장 - 데이터 수집과 처리(crawling, Restful API, 정규 표현식)
 
 - 본 Repository는 위 강의자료 코드를 기반으로 개인적인 파이썬 및 데이터 분석 기술을 습득하기 위해 작성되었음을 밝힙니다.
 
