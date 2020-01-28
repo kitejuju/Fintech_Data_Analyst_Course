@@ -35,7 +35,23 @@ __[ 아시아경제 청년취업아카데미 - 핀테크 금융데이터 분석�
     - 선물의 원리
     - 옵션 가격
 - 교재 4 : PPT 강의자료 
-  - 1장 - 머신러닝
+  - 1장 - 머신러닝 기초
+    - K-Means_clustering
+    - PCA
+    - Linear regression(Ridge, Lasso)
+  - 2장 - 머신러닝 심화
+    - Logistic regression
+    - KNN
+    - Naive bayes
+    - SVM
+    - Decision tree
+    - Ensemble
+- 교재5 : PPT 강의자료
+  - 1장 - 자연어 처리
+    - NLTK
+    - Wordcloud
+    - n-Gram
+  - 2장 - 딥러닝
 
 
 
